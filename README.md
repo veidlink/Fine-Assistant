@@ -21,6 +21,8 @@
 6. Create a `.env` file to store GigaChat and OpenAI keys.
 7. Launch GUI.
 8. Enjoy!
+   
+upd. Author launched LM Studio with ngrok and GUI on two seperate devices. 
 
 ### 📈 Inference Examples 
 
