@@ -18,13 +18,14 @@
 ### Inference Examples
 
 <p align="center">
-  <img src="https://ibb.co/p0XkJLb" alt="1">
+  <a href="https://ibb.co/p0XkJLb"><img src="https://i.ibb.co/h78TDmL/Screenshot-from-2024-04-09-14-20-59.png" alt="Screenshot-from-2024-04-09-14-20-59" border="0"></a>
 </p>
 
 <p align="center">
-  <img src="https://ibb.co/9ympjLK" alt="2">
+  <a href="https://ibb.co/9ympjLK"><img src="https://i.ibb.co/5sX1Vyp/Screenshot-from-2024-04-09-14-26-37.png" alt="Screenshot-from-2024-04-09-14-26-37" border="0"></a>
 </p>
 
 <p align="center">
-  <img src="https://ibb.co/n0NHfky" alt="3">
+  <a href="https://ibb.co/n0NHfky"><img src="https://i.ibb.co/4fn6MNL/Screenshot-from-2024-04-09-14-34-51.png" alt="Screenshot-from-2024-04-09-14-34-51" border="0"></a>
 </p>
+
