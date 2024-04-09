@@ -5,15 +5,11 @@
 - torch, transformers, clickhouse_connect, nltk
 - gradio
 
-### 🗺️***Navigation***
-1. **Data Handling**: 
+### 🗺️ Navigation
    - In `clickhouse/db.ipynb`, the text of the Russian Code of Administrative Offenses (КоАП РФ) is scanned and translated into txt, after which it is loaded into the ClickHouse database.
-   
-2. **Model Interaction**: 
    - In `inference.ipynb`, interaction with three models is implemented in notebook format: `IlyaGusev/saiga_mistral_7b_gguf`, ChatGPT (3.5 turbo), GigaChat.
-   
-3. **Graphical User Interface (GUI)**: 
    - In `gui.ipynb`, a graphical interface for communicating with three models is developed.
+   - In `/data` folder you can find reference knowledge files (КоАП РФ in pdf, etc.)
 
 ### 🚀 How to Run the Code 
 **For Windows**
