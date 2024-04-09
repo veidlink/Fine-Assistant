@@ -5,7 +5,7 @@
 - torch, transformers, clickhouse_connect, nltk
 - gradio
 
-### ***Navigation***
+### 🗺️***Navigation***
 1. **Data Handling**: 
    - In `clickhouse/db.ipynb`, the text of the Russian Code of Administrative Offenses (КоАП РФ) is scanned and translated into txt, after which it is loaded into the ClickHouse database.
    
