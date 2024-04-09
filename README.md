@@ -22,7 +22,7 @@
 7. Launch GUI.
 8. Enjoy!
    
-upd. Author launched LM Studio with ngrok and GUI on two seperate devices. 
+upd. Author launched LM Studio & ngrok and GUI on two seperate devices. 
 
 ### 📈 Inference Examples 
 
