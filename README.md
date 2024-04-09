@@ -5,6 +5,7 @@
 - torch, transformers, clickhouse_connect, nltk
 - gradio
 
+### ***Navigation***
 1. **Data Handling**: 
    - In `clickhouse/db.ipynb`, the text of the Russian Code of Administrative Offenses (КоАП РФ) is scanned and translated into txt, after which it is loaded into the ClickHouse database.
    
@@ -14,7 +15,7 @@
 3. **Graphical User Interface (GUI)**: 
    - In `gui.ipynb`, a graphical interface for communicating with three models is developed.
 
-### 🚀 How to Run the Code 🚀
+### 🚀 How to Run the Code 
 **For Windows**
 1. Register an account on the ngrok official website.
 2. Install ngrok.
@@ -25,7 +26,7 @@
 7. Launch GUI.
 8. Enjoy!
 
-### 📈 Inference Examples 📈
+### 📈 Inference Examples 
 
 <p align="center">
   <a href="https://ibb.co/p0XkJLb"><img src="https://i.ibb.co/h78TDmL/Screenshot-from-2024-04-09-14-20-59.png" alt="Screenshot-from-2024-04-09-14-20-59" border="0"></a>
